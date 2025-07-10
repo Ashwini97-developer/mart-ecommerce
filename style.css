@@ -347,6 +347,12 @@ ol{
     width:450px;
     font-size: 15px;
 }
+.p1{
+    padding-left: 30%;
+}
+.p2{
+    padding-left: 35%;
+}
 footer{
     display:inline-block;
     width:100%;
