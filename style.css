@@ -290,6 +290,7 @@ ol{
     }
     nav a{
         margin-left:0px ;
+        font-size: 10px;
     }
    .carousel{
         height:180px;
@@ -351,16 +352,16 @@ ol{
     font-size: 10px;
 }
 .cart1 h4{
-    font-size: 15px;
+    font-size: 13px;
 }
 .on{
- padding-left: 80px;
+ padding-left: 60px;
 }
 .two{
     padding-left: 60px;
 }
 .three{
-    padding-left: 80px;
+    padding-left: 100px;
 }
 .p1{
     padding-left: 20%;
@@ -382,6 +383,7 @@ footer{
     }
     nav a{
         margin-left: 0px;
+        font-size: 10px;
     }
 .carousel-item img{
     height:140px;
