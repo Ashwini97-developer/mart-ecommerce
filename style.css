@@ -390,8 +390,8 @@ footer{
         width:110px;
     }
     .cartdisplay img{
-        width: 5px;
-        height:5px;
+        width: 20px;
+        height: 10px;
     }
     nav a{
         margin-left: 0px;
@@ -433,8 +433,11 @@ footer{
 }
 .search{
     width:200px;
-    margin-left: 0px;
+    margin-left: 30px;
     display: flex;
+}
+.search input {
+    width: 200px;
 }
 .carts{
     display:inline-block;
@@ -454,11 +457,14 @@ footer{
 .cart1 h4{
     font-size: 12px;
 }
+.main{
+    padding-left: 20px;
+}
 .on{
- padding-left: 60px;
+ padding-left: 40px;
 }
 .two {
-        padding-left: 100px;
+        padding-left: 60px;
     }
 .three {
         padding-left: 120px;
