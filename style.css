@@ -323,7 +323,8 @@ ol{
     margin-left: 80px;
 }
 .search{
-    width:300px; 
+    width:200px; 
+    margin-left: 10px;
    display: flex;
 }
 .search input{
@@ -341,6 +342,10 @@ ol{
 .carts{
     display:inline-block;
     background-color: #fff;
+}
+.cart1{
+    width:550px;
+    font-size: 15px;
 }
 footer{
     display:inline-block;
