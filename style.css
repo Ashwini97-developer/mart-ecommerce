@@ -345,6 +345,9 @@ ol{
 }
 .cart1{
     width:450px;
+    font-size: 10px;
+}
+.cart1 h4{
     font-size: 15px;
 }
 .p1{
